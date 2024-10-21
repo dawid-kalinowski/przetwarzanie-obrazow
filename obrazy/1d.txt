@@ -1,0 +1,10 @@
+"process" > "analyze" lub "histogram"
+
+obszar: 414720
+średnia: 120.027
+minimalna wartość: 3
+maksymalna wartość: 220
+
+x = 719
+y = 575
+wartosc = 14

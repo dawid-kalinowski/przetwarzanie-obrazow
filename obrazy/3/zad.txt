@@ -1,0 +1,7 @@
+Red 180
+Green 97
+Blue 148
+
+Najjaśniejszy zółty
+średni cyan
+najciemniejszy magenta

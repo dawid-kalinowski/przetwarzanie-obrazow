@@ -1,0 +1,3 @@
+507x446 pixels = wymiary obrazu, ilość pikseli w poziomie na ilość pikseli w pionie
+rgb - obraz kolorowy, w formacie rgb, czyli każdy kolor możemy przedstawić za pomocą ilości koloru czerwonego, zielonego i niebieskiego
+883K - rozmiar pliku - 883 kilobajty

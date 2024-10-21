@@ -1,0 +1,2 @@
+sól i pieprz - dodaje losowo białe i czarne piksele.
+Po uzyciu filtra median, na radiusie 1 piksel - sol i pieprz znikają, ale obraz jest bardziej zblurowany.

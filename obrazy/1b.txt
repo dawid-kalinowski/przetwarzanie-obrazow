@@ -1,0 +1,2 @@
+jako że obraz jest 8 bitowy - jest czarno biały i jest skala szarości.
+gdy wybierzemy kolor pierworzędny oraz kolor drugorzędny - np. czerwony i niebieski - wtedy imageJ konwertuje te kolory na odpowiednie w skali szarości. Po wybraniu opcji "fill" obszar w środku okręgu jest wypełniany kolorem pierwszorzędnym, a po wybraniu opcji "clear outside" - obszar poza okręgiem jest uzupełniany kolorem drugorzędnym (kolorem tła)
