@@ -1,0 +1,10 @@
+a) Sygnał w przedziale od 0 do 500 pikseli i tak samo od 900 do 1400 moze być niemozliwy do prawidłowego
+odtworzenia z racji na zbyt rzadkie próbkowanie, w tych predziałach punkty są rzadko i pomiędzy nimi fala powtarza się więcej niż jeden raz.
+
+Na podstawie danych, pierwsze minimum fali jest w 0px, a pierwsze maksimum w 11 px, więc bezpiecznie jest próbkować obraz co 11 pikseli.
+
+
+b) przy przeskalowaniu w dół, "okręgi" tworzą się w drugą stronę, niż powinny. Dzieje się to z racji na próbkowanie poszczególnych pikseli, wychodzi akurat tak, że przy przeskalowaniu tak kolory się dobierają, że tworzą inne okręgi
+
+c) linie jak damy 30 punktów probkowania (co 25 pikseli) to dostajemy czarny obraz :O 
+W obrazie płytek Fresnala widać, że jak zwiększymy ilość próbkowania co piksel, to widać coraz bardziej, jak okręgi tworzą się w drugą stronę
