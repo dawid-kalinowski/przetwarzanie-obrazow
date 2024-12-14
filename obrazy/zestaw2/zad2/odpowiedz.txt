@@ -1,0 +1,9 @@
+Kontrasty globalne:
+Mucha A: (255 - 0) / 255 = 1
+Mucha B: (192-63) / 255 = 0.51
+Mucha C: (255 - 0) / 255 = 1
+
+Kontrasty lokalne:
+Mucha A: 21,462
+Mucha B: 10,595
+Mucha C: 20,812

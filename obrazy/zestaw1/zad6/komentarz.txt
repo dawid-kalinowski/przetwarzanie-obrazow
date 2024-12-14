@@ -2,3 +2,8 @@ Aby przeprowadzić algorytm interpolacji dwuliniowej w imageJ, należy
 - wybrać opcję Image > Scale (Lub Ctrl+E)
 - zaznaczyć opcję Interpolation > Bilinear
 - wybrać skalę 6 w X oraz Y, lub wpisać wymiary obrazu
+
+
+zrobic jeszcze b i d
+
+spytać panią o d, czy "janość" oznacza ze obraz ma byc czarno bialy?

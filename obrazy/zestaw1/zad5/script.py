@@ -1,7 +1,7 @@
 from PIL import Image, ImageDraw
 import random
 
-def apply_pointillism(image_path, output_path, num_dots=100000, dot_size=5):
+def apply_pointillism(image_path, output_path, num_dots=100, dot_size=50):
     original_image = Image.open(image_path)
     width, height = original_image.size
     
@@ -26,6 +26,6 @@ def apply_pointillism(image_path, output_path, num_dots=100000, dot_size=5):
     image.save(output_path)
     print(f"Obraz zapisany w: {output_path}")
 
-input_image = "zestaw1/zad5/michal.jpg"
-output_image = "zestaw1/zad5/przerobiony_michal.jpg"
+input_image = "michal.jpg"
+output_image = "przerobiony_michal.png"
 apply_pointillism(input_image, output_image)

@@ -11,7 +11,7 @@ def convert_to_grayscale(image_path, output_path):
     
     grayscale_img.save(output_path)
 
-input_image = 'zestaw1/zad3/michal.jpg'
-output_image = 'zestaw1/zad3/szary_michal.jpg'
+input_image = 'michal.jpg'
+output_image = 'szary_michal.jpg'
 
 convert_to_grayscale(input_image, output_image)

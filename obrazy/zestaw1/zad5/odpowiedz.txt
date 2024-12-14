@@ -1,0 +1,5 @@
+zdjecie przerobione skryptem w pythonie wykorzysytujac biblioeke PIL
+
+Co ciekawe, przy pracowaniu na pliku jpg, komenda .save kompresuje plik,
+sądzę to po artefaktach, które widać na malowanych kółkach. Nie są one o jednolitym kolorze,
+a widać na nich kompresje
